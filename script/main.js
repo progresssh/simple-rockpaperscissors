@@ -34,7 +34,7 @@ function playersSelection(humanSelection, computerSelection) {
     if (computerSelection == humanSelection) {
         return `Draw! ${humanSelection} vs ${computerSelection}`;
     } else if (x) {
-
+        
     }
 }
 
